@@ -15,7 +15,7 @@
 		"scopeDataCheck": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.10.2",
 	"appid": "wx59eeb09272c303e6",
 	"projectname": "SoapEye",
 	"debugOptions": {
